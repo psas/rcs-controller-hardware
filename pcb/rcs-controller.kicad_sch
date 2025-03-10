@@ -1,0 +1,106 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e4913927-a78d-4b03-b6f9-d80e0534b5c4")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 31.75 54.61)
+		(size 15.24 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6cef9d77-2691-49ce-bc97-b221873d37f8")
+		(property "Sheetname" "RCS diagram"
+			(at 31.75 53.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 31.75 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RCS Board"
+				(path "/e4913927-a78d-4b03-b6f9-d80e0534b5c4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 72.39 54.61)
+		(size 13.97 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b4a0c417-3b67-4300-bf70-1e43e04bd22a")
+		(property "Sheetname" "Microcontroller"
+			(at 72.39 53.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled(1).kicad_sch"
+			(at 72.39 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 72.39 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "RCS Board"
+				(path "/e4913927-a78d-4b03-b6f9-d80e0534b5c4"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
