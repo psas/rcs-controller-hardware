@@ -40,7 +40,7 @@
 			)
 		)
 		(instances
-			(project "RCS Board"
+			(project "rcs-controller"
 				(path "/e4913927-a78d-4b03-b6f9-d80e0534b5c4"
 					(page "2")
 				)
@@ -90,7 +90,7 @@
 			)
 		)
 		(instances
-			(project "RCS Board"
+			(project "rcs-controller"
 				(path "/e4913927-a78d-4b03-b6f9-d80e0534b5c4"
 					(page "3")
 				)
