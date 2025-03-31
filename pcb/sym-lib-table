@@ -14,4 +14,5 @@
   (lib (name "U-TI-TCAN330-can-transciever")(type "KiCad")(uri "${PSAS_LIBRARIES}/psas-symbols/U-TI-TCAN330-can-transciever.kicad_sym")(options "")(descr ""))
   (lib (name "U-TI-TPS63070x-buck-boost-regulator")(type "KiCad")(uri "${PSAS_LIBRARIES}/psas-symbols/U-TI-TPS63070x-buck-boost-regulator.kicad_sym")(options "")(descr ""))
   (lib (name "U-Vishay-TCMT1107-optocoupler")(type "KiCad")(uri "${PSAS_LIBRARIES}/psas-symbols/U-Vishay-TCMT1107-optocoupler.kicad_sym")(options "")(descr ""))
+  (lib (name "rcs-controller-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/rcs-controller-eagle-import.kicad_sym")(options "")(descr ""))
 )
