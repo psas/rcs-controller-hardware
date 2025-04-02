@@ -5225,7 +5225,7 @@
 			(uuid "aa72ca12-26e6-4be1-af41-8696304277fe")
 		)
 		(instances
-			(project ""
+			(project "rcs-controller"
 				(path "/e4913927-a78d-4b03-b6f9-d80e0534b5c4/b4a0c417-3b67-4300-bf70-1e43e04bd22a"
 					(reference "U1")
 					(unit 1)
@@ -5515,7 +5515,7 @@
 			(uuid "cf8fbf40-a75b-47d6-ad03-9d1bc04ae2d8")
 		)
 		(instances
-			(project ""
+			(project "rcs-controller"
 				(path "/e4913927-a78d-4b03-b6f9-d80e0534b5c4/b4a0c417-3b67-4300-bf70-1e43e04bd22a"
 					(reference "J4")
 					(unit 1)
@@ -6074,7 +6074,7 @@
 			(uuid "f640eb8e-de7a-4337-adfc-8c2488021f86")
 		)
 		(instances
-			(project ""
+			(project "rcs-controller"
 				(path "/e4913927-a78d-4b03-b6f9-d80e0534b5c4/b4a0c417-3b67-4300-bf70-1e43e04bd22a"
 					(reference "#PWR07")
 					(unit 1)
@@ -6541,7 +6541,7 @@
 			(uuid "697d12ac-7b3f-4761-9db0-87e2f72e85fc")
 		)
 		(instances
-			(project ""
+			(project "rcs-controller"
 				(path "/e4913927-a78d-4b03-b6f9-d80e0534b5c4/b4a0c417-3b67-4300-bf70-1e43e04bd22a"
 					(reference "U4")
 					(unit 1)
@@ -6846,7 +6846,7 @@
 			(uuid "8a47c710-c890-4d63-9e2e-824293b8da01")
 		)
 		(instances
-			(project ""
+			(project "rcs-controller"
 				(path "/e4913927-a78d-4b03-b6f9-d80e0534b5c4/b4a0c417-3b67-4300-bf70-1e43e04bd22a"
 					(reference "D8")
 					(unit 1)

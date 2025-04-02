@@ -26,7 +26,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "6cef9d77-2691-49ce-bc97-b221873d37f8")
-		(property "Sheetname" "RCS diagram"
+		(property "Sheetname" "Power"
 			(at 31.75 53.8984 0)
 			(effects
 				(font
@@ -35,7 +35,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled.kicad_sch"
+		(property "Sheetfile" "rcs-controller-sch-power.kicad_sch"
 			(at 31.75 64.0846 0)
 			(effects
 				(font
@@ -77,21 +77,13 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled(1).kicad_sch"
+		(property "Sheetfile" "rcs-controller-sch-microcontroller.kicad_sch"
 			(at 72.39 64.0846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
-			)
-		)
-		(property "Field2" ""
-			(at 72.39 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(instances
