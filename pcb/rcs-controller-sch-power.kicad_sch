@@ -8890,10 +8890,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "547d939a-691a-460d-869b-8f733400aca4")
 		(property "Reference" "Q1"
-			(at 321.31 63.5 90)
+			(at 318.77 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8901,14 +8900,14 @@
 			)
 		)
 		(property "Value" "SI7465DP-T1-E3"
-			(at 321.31 66.04 90)
+			(at 312.42 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "PCM_Package_SON_AKL:Infineon_PG-TDSON-8"
+		(property "Footprint" "Package_SO:PowerPAK_SO-8_Single"
 			(at 319.405 67.31 0)
 			(effects
 				(font
