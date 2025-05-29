@@ -60,34 +60,6 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|96250000|133612500|b2ead4ca-6f1d-48f1-9466-ab20d4aa4cab|22779cd1-a114-414e-a399-608803feb480",
-          "YOLO - close enough to OSH Park design rules"
-        ],
-        [
-          "clearance|96725000|132762500|9c5f8d6b-d4e2-4425-b22f-38db27887831|4e2db222-f0f3-4e87-b9fc-d423d513b578",
-          "YOLO - close enough to OSH Park design rules"
-        ],
-        [
-          "clearance|97050000|135087500|ad217ad0-c501-4425-afc2-01a5d829a08c|35150eb3-18d1-4179-aeb6-4221a56024ae",
-          "YOLO - close enough to OSH Park design rules"
-        ],
-        [
-          "clearance|97550000|135087500|bb166a33-6ccc-4f46-8fbe-495814698d19|ad217ad0-c501-4425-afc2-01a5d829a08c",
-          "YOLO - close enough to OSH Park design rules"
-        ],
-        [
-          "clearance|98050000|135087500|337fdfef-1b65-4be1-811c-19f16ff3211b|bb166a33-6ccc-4f46-8fbe-495814698d19",
-          "YOLO - close enough to OSH Park design rules"
-        ],
-        [
-          "clearance|98075000|133287500|34773928-940e-42fc-9ab5-53b4e7ebfa8c|d5722a0c-01e9-4c2e-af2c-e79fc10cd591",
-          "YOLO - close enough to OSH Park design rules"
-        ],
-        [
-          "clearance|98075000|133787500|d5722a0c-01e9-4c2e-af2c-e79fc10cd591|4a0d98fa-7449-423a-a387-122422e9eac2",
-          "YOLO - close enough to OSH Park design rules"
-        ],
-        [
           "courtyards_overlap|118795000|127875000|20404068-2111-4fdb-bd89-8545569d094b|fa32f6a2-4ab4-4e06-8559-b61a47b64c6d",
           ""
         ],
@@ -293,24 +265,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      [
-        "pin_to_pin|1511300|1536700|dddd5fb0-f124-4439-a1e2-a139e5cf9636|d983f5ba-9ef5-41e8-ade4-0db8874442f0|/e4913927-a78d-4b03-b6f9-d80e0534b5c4/b4a0c417-3b67-4300-bf70-1e43e04bd22a|/e4913927-a78d-4b03-b6f9-d80e0534b5c4/b4a0c417-3b67-4300-bf70-1e43e04bd22a|/e4913927-a78d-4b03-b6f9-d80e0534b5c4/6cef9d77-2691-49ce-bc97-b221873d37f8",
-        ""
-      ],
-      [
-        "pin_to_pin|1511300|1562100|7ad0ebef-8084-4f8e-8a10-c3347ec188a4|d983f5ba-9ef5-41e8-ade4-0db8874442f0|/e4913927-a78d-4b03-b6f9-d80e0534b5c4/b4a0c417-3b67-4300-bf70-1e43e04bd22a|/e4913927-a78d-4b03-b6f9-d80e0534b5c4/b4a0c417-3b67-4300-bf70-1e43e04bd22a|/e4913927-a78d-4b03-b6f9-d80e0534b5c4/6cef9d77-2691-49ce-bc97-b221873d37f8",
-        ""
-      ],
-      [
-        "pin_to_pin|609600|1282700|dddd5fb0-f124-4439-a1e2-a139e5cf9636|d983f5ba-9ef5-41e8-ade4-0db8874442f0|/e4913927-a78d-4b03-b6f9-d80e0534b5c4/b4a0c417-3b67-4300-bf70-1e43e04bd22a|/e4913927-a78d-4b03-b6f9-d80e0534b5c4/b4a0c417-3b67-4300-bf70-1e43e04bd22a|/e4913927-a78d-4b03-b6f9-d80e0534b5c4/6cef9d77-2691-49ce-bc97-b221873d37f8",
-        "Already checked datasheet"
-      ],
-      [
-        "pin_to_pin|609600|1308100|7ad0ebef-8084-4f8e-8a10-c3347ec188a4|d983f5ba-9ef5-41e8-ade4-0db8874442f0|/e4913927-a78d-4b03-b6f9-d80e0534b5c4/b4a0c417-3b67-4300-bf70-1e43e04bd22a|/e4913927-a78d-4b03-b6f9-d80e0534b5c4/b4a0c417-3b67-4300-bf70-1e43e04bd22a|/e4913927-a78d-4b03-b6f9-d80e0534b5c4/6cef9d77-2691-49ce-bc97-b221873d37f8",
-        "Already checked datasheet"
-      ]
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
