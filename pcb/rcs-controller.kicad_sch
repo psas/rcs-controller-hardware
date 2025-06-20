@@ -6,8 +6,8 @@
 	(paper "B")
 	(title_block
 		(title "RCS Controller Board")
-		(date "2025-03-25")
-		(rev "1.0")
+		(date "2025-06-20")
+		(rev "1.1")
 	)
 	(lib_symbols)
 	(sheet
