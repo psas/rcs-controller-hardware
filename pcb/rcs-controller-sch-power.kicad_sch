@@ -8805,7 +8805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 22UF 25V X5R 0805"
+		(property "Description" "CAP CER 22UF 35V X5R 0805"
 			(at 293.37 133.35 0)
 			(effects
 				(font
@@ -8814,7 +8814,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRT21BR61E226ME13L"
+		(property "MPN" "C2012X5R1V226M125AC"
 			(at 293.37 133.35 0)
 			(effects
 				(font
@@ -8823,7 +8823,7 @@
 				(hide yes)
 			)
 		)
-		(property "DPN" "490-12389-1-ND"
+		(property "DPN" "445-14428-1-ND"
 			(at 293.37 133.35 0)
 			(effects
 				(font
@@ -9185,7 +9185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 22UF 25V X5R 0805"
+		(property "Description" "CAP CER 22UF 35V X5R 0805"
 			(at 283.21 213.36 0)
 			(effects
 				(font
@@ -9194,7 +9194,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRT21BR61E226ME13L"
+		(property "MPN" "C2012X5R1V226M125AC"
 			(at 283.21 213.36 0)
 			(effects
 				(font
@@ -9203,7 +9203,7 @@
 				(hide yes)
 			)
 		)
-		(property "DPN" "490-12389-1-ND"
+		(property "DPN" "445-14428-1-ND"
 			(at 283.21 213.36 0)
 			(effects
 				(font
@@ -9996,7 +9996,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 22UF 25V X5R 0805"
+		(property "Description" "CAP CER 22UF 35V X5R 0805"
 			(at 273.05 213.36 0)
 			(effects
 				(font
@@ -10005,7 +10005,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRT21BR61E226ME13L"
+		(property "MPN" "C2012X5R1V226M125AC"
 			(at 273.05 213.36 0)
 			(effects
 				(font
@@ -10014,7 +10014,7 @@
 				(hide yes)
 			)
 		)
-		(property "DPN" "490-12389-1-ND"
+		(property "DPN" "445-14428-1-ND"
 			(at 273.05 213.36 0)
 			(effects
 				(font
@@ -10117,7 +10117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10UF 50V X5R 0805"
+		(property "Description" "CAP CER 22UF 35V X5R 0805"
 			(at 191.77 213.36 0)
 			(effects
 				(font
@@ -10126,7 +10126,7 @@
 				(hide yes)
 			)
 		)
-		(property "DPN" "490-18663-1-ND"
+		(property "DPN" "445-14428-1-ND"
 			(at 191.77 213.36 0)
 			(effects
 				(font
@@ -10153,7 +10153,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRM21BR61H106KE43L"
+		(property "MPN" "C2012X5R1V226M125AC"
 			(at 191.77 213.36 0)
 			(effects
 				(font
@@ -10860,7 +10860,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10UF 50V X5R 0805"
+		(property "Description" "CAP CER 22UF 35V X5R 0805"
 			(at 181.61 213.36 0)
 			(effects
 				(font
@@ -10869,7 +10869,7 @@
 				(hide yes)
 			)
 		)
-		(property "DPN" "490-18663-1-ND"
+		(property "DPN" "445-14428-1-ND"
 			(at 181.61 213.36 0)
 			(effects
 				(font
@@ -10896,7 +10896,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRM21BR61H106KE43L"
+		(property "MPN" "C2012X5R1V226M125AC"
 			(at 181.61 213.36 0)
 			(effects
 				(font

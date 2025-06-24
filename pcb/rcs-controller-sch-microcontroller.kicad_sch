@@ -4289,7 +4289,7 @@
 	)
 	(text "6 DOF IMU\n"
 		(exclude_from_sim no)
-		(at 304.8 67.31 0)
+		(at 313.69 67.31 0)
 		(effects
 			(font
 				(size 2 2)
@@ -5966,6 +5966,24 @@
 				(hide yes)
 			)
 		)
+		(property "DPN" "311-10.0KHRCT-ND"
+			(at 265.43 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DST" "DigiKey"
+			(at 265.43 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3f5fa14c-7f37-4d50-a1bb-a4094e0375ee")
 		)
@@ -6135,6 +6153,24 @@
 				(hide yes)
 			)
 		)
+		(property "DPN" "311-10.0KHRCT-ND"
+			(at 247.65 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DST" "DigiKey"
+			(at 247.65 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c105f015-4fa1-4661-a7fd-b77204878460")
 		)
@@ -6196,7 +6232,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 10K OHM 1% 1/10W 0603"
+		(property "Description" "RES 4.7K OHM 1% 1/10W 0603"
 			(at 140.97 113.03 0)
 			(effects
 				(font
@@ -6231,6 +6267,24 @@
 			)
 		)
 		(property "MPN" "RC0603FR-0710KL"
+			(at 140.97 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DPN" "311-4.70KHRCT-ND"
+			(at 140.97 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DST" "DigiKey"
 			(at 140.97 113.03 0)
 			(effects
 				(font
@@ -6542,6 +6596,24 @@
 				(hide yes)
 			)
 		)
+		(property "DPN" "311-1.00KHRCT-ND"
+			(at 313.69 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DST" "DigiKey"
+			(at 313.69 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1f51bc14-ad32-49b9-83a9-4452a1bd6f7f")
 		)
@@ -6825,6 +6897,24 @@
 			)
 		)
 		(property "MPN" "RC0603FR-0710KL"
+			(at 247.65 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DPN" "311-10.0KHRCT-ND"
+			(at 247.65 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DST" "DigiKey"
 			(at 247.65 203.2 0)
 			(effects
 				(font
@@ -8573,6 +8663,24 @@
 				(hide yes)
 			)
 		)
+		(property "DPN" "311-10.0KHRCT-ND"
+			(at 264.16 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DST" "DigiKey"
+			(at 264.16 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b1cee375-7dd2-433d-842d-5f5962520411")
 		)
@@ -8742,6 +8850,33 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 242.57 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DPN" "SW400-ND"
+			(at 242.57 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Omron Electronics Inc-EMC Div"
+			(at 242.57 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B3F-1000"
 			(at 242.57 78.74 0)
 			(effects
 				(font
@@ -9191,6 +9326,24 @@
 				(hide yes)
 			)
 		)
+		(property "DPN" "311-10.0KHRCT-ND"
+			(at 232.41 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DST" "DigiKey"
+			(at 232.41 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc81d1ff-e058-4eb9-abf6-19e046c372de")
 		)
@@ -9496,6 +9649,24 @@
 				(hide yes)
 			)
 		)
+		(property "DPN" "311-1.00KHRCT-ND"
+			(at 314.96 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DST" "DigiKey"
+			(at 314.96 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dfe40011-0c90-4fea-935d-c5651361afa2")
 		)
@@ -9556,7 +9727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 10K OHM 1% 1/10W 0603"
+		(property "Description" "RES 4.7K OHM 1% 1/10W 0603"
 			(at 238.76 111.76 0)
 			(effects
 				(font
@@ -9590,7 +9761,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "RC0603FR-074K7L"
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DPN" "311-4.70KHRCT-ND"
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DST" "DigiKey"
 			(at 238.76 111.76 0)
 			(effects
 				(font
@@ -10023,6 +10212,42 @@
 			)
 		)
 		(property "Description" "RF Module, ESP32-S3 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.3V, onboard antenna, SMD"
+			(at 196.85 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DPN" "5407-ESP32-S3-WROOM-1-N4R8CT-ND"
+			(at 196.85 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DST" "Digikey"
+			(at 196.85 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "Espressif Systems"
+			(at 196.85 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESP32-S3-WROOM-1-N4R8"
 			(at 196.85 135.89 0)
 			(effects
 				(font
@@ -10899,7 +11124,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+		(property "Datasheet" "https://gct.co/files/specs/usb4105-spec.pdf"
 			(at 106.68 118.11 0)
 			(effects
 				(font
@@ -10909,6 +11134,41 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
+			(at 102.87 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DPN" "2073-USB4105-GF-ACT-ND"
+			(at 102.87 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DST" "Digikey"
+			(at 102.87 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "GCT"
+			(at 102.87 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "USB4105-GF-A"
 			(at 102.87 118.11 0)
 			(effects
 				(font
@@ -11017,7 +11277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 10K OHM 1% 1/10W 0603"
+		(property "Description" "RES 4.7K OHM 1% 1/10W 0603"
 			(at 130.81 113.03 0)
 			(effects
 				(font
@@ -11052,6 +11312,24 @@
 			)
 		)
 		(property "MPN" "RC0603FR-0710KL"
+			(at 130.81 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DPN" "311-4.70KHRCT-ND"
+			(at 130.81 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DST" "DigiKey"
 			(at 130.81 113.03 0)
 			(effects
 				(font
@@ -11372,7 +11650,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 10K OHM 1% 1/10W 0603"
+		(property "Description" "RES 4.7K OHM 1% 1/10W 0603"
 			(at 229.87 111.76 0)
 			(effects
 				(font
@@ -11406,7 +11684,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "RC0603FR-074K7L"
+			(at 229.87 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DPN" "311-4.70KHRCT-ND"
+			(at 229.87 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DST" "DigiKey"
 			(at 229.87 111.76 0)
 			(effects
 				(font
